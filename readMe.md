@@ -1,6 +1,6 @@
 # Yummy Sushi is fully responsive HTML & CSS website with animations.
 
-A project to practice CSS, tutorial by [javascriptmastery](https://www.youtube.com/watch?v=QRrPE9aj3wI)
+A project to practice CSS, tutorial by [javascriptmastery](https://www.youtube.com/watch?v=QRrPE9aj3wI).
 
 This project covers:-
 
