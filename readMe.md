@@ -1,6 +1,6 @@
 # Yummy Sushi is fully responsive HTML & CSS website with animations.
 
-A project to practice CSS, tutorial by [javascriptmastery)](https://www.youtube.com/watch?v=QRrPE9aj3wI).
+A project to practice CSS, tutorial by [javascriptmastery)](https://www.youtube.com/watch?v=QRrPE9aj3wI)
 
 This project covers:-
 
@@ -20,11 +20,12 @@ BEM helps to organize CSS classes by providing a clear and consistent structure 
 - Block which holds everything (elements) inside and acts as a scope.
 - Element which acts as a special part of the component.
 - Modifier which adds additional styles to a specific element(s).
+  
   ![Breakdown of BEM](image.png)
 
 ## Animation using [AOS library](https://www.npmjs.com/package/aos)
 
-- npm install aos
+- `npm install aos`
 - import aos
 
 ```
